@@ -1,9 +1,9 @@
 # cpcfi_problems
 
-- NAME:
-- CODEFORCES USER: 
-- GENERATION NUMBER:
-- MOST DIFFICULT TOPIC: 
+- NAME: Bryan Vargas
+- CODEFORCES USER: brn_7ic
+- GENERATION NUMBER: 1
+- MOST DIFFICULT TOPIC: Dinamic programming 
 
 # How to use this repo?
 
